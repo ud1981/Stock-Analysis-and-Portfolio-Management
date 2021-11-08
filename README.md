@@ -65,3 +65,5 @@ v) Data clustering: Bucket these stocks based on k-means algorithm
 vi) Dimension Reduction using Principal Component Analysis (PCA) : Drop those features that are not adding value
   
 vii) Calculate Sharpe ratio validate it using Capital Asset Pricing Model (CAPM)
+  
+viii) Portfolio optimization
