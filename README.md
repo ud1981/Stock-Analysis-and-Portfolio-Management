@@ -17,9 +17,9 @@ You must use the elements of technical analysis to understand the trend of the u
 You must use the metrics and the visualizations to compare the performance of the available securities against each other, and also against the market index, S&P500.
 The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio. You are expected to validate the same using the Capital Asset Pricing Model (CAPM) before including the stock in the portfolio.
 After the selection of suitable stocks, you must apply a suitable predictive model to estimate the returns from the portfolio at the end of the investment period. You must check if the portfolio has the potential to fulfil the financial goals of the investor
+--------------------------------------------------------------
 
-
-Background - Why did I select this Capstone project?
+Background: Why did I select this Capstone project?
 It was most suitable for those working in an Investment Bank having a background of the Stock Market (i.e. Fundamental and Technical Analysis)
 
 Skills required for this Capstone :
