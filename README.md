@@ -42,9 +42,10 @@ Skills required for this Capstone :
 
 <A> Business Analyst skills needed for this project:
 1. 5Ws and 1H: A deeper understanding of the 5Ws and How technique that is used for arriving at key insights from a business perspective
-2. Business Objective: Once business objective is clear, the next step is to provide business solution
-3. Business Solution: Share insight on Stock selection from the list of stocks and share comments on portfolio allocation
-4. Data Storytelling: Share a video with your client (i.e. Alexa) on key recommendations. Logic used here - Tell them what you need to tell them, tell them and tell them what you told them.
+2. Understanding market fundamentals and technicals: Should be good at reading technical charts and have a good knowledge of market cycles
+3. Business Objective: Once business objective is clear, the next step is to provide business solution
+4. Business Solution: Share insight on Stock selection from the list of stocks and share comments on portfolio allocation
+5. Data Storytelling: Share a video with your client (i.e. Alexa) on key recommendations. Logic used here - Tell them what you need to tell them, tell them and tell them what you told them.
 
 <B> Technical skills needed for this project:
 
