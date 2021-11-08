@@ -36,10 +36,17 @@ Skills required for this Capstone :
 
 1. Programming is a necessity for any Analytical project. In this case Python was leveraged
 2. Key insights derived using Data Science:
+  
 i) Data Cleaning: Once the historical information was derived from Yahoo Finance for all S&P 500 stocks and index unnecessary columns and missing data had to be dropped as part of Data cleaning
+  
 ii) Data Visualization: Visualizing the data as-is using box plots, sub-plots, heat maps
+  
 iii) Data Interpretation / Perform any Calculation: We calculated the Alpha and Volatility of the stocks versus benchmark index (i.e. S&P 500)
+  
 iv) Data Normalization: Since all stocks are mapped to different scales, we had to normalize them to a scale between 0 and 1 for comparing their performance on a standard scale
+  
 v) Data clustering: Bucket these stocks based on k-means algorithm
+  
 vi) Dimension Reduction using Principal Component Analysis (PCA) : Drop those features that are not adding value
+  
 vii) Calculate Sharpe ratio validate it using Capital Asset Pricing Model (CAPM)
