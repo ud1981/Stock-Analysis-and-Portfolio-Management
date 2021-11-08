@@ -21,9 +21,11 @@ After the selection of suitable stocks, you must apply a suitable predictive mod
 --------------------------------------------------------------
 
 Background: Why did I select this Capstone project?
+
 It was most suitable for those working in an Investment Bank having a background of the Stock Market (i.e. Fundamental and Technical Analysis)
 
 Skills required for this Capstone :
+
 <A> Business Analyst skills needed for this project:
 1. A deeper understanding of the 5Ws and How technique that is used for arriving at key insights from a business perspective
 2. Once business objective is clear, the next step is to provide business solution
@@ -31,6 +33,7 @@ Skills required for this Capstone :
 4. Data Storytelling: Share a video with your client (i.e. Alexa) on key recommendations. Logic used here - Tell them what you need to tell them, tell them and tell them what you told them.
 
 <B> Technical skills needed for this project:
+
 1. Programming is a necessity for any Analytical project. In this case Python was leveraged
 2. Key insights derived using Data Science:
 i) Data Cleaning: Once the historical information was derived from Yahoo Finance for all S&P 500 stocks and index unnecessary columns and missing data had to be dropped as part of Data cleaning
