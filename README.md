@@ -36,7 +36,7 @@ After the selection of suitable stocks, you must apply a suitable predictive mod
 
 Background: Why did I select this Capstone project?
 
-It was most suitable for those working in an Investment Bank having a background of the Stock Market (i.e. Fundamental and Technical Analysis)
+It was most suitable for those working in an Investment Bank having a background on the Stock Markets (i.e. Fundamental and Technical Analysis)
 
 Skills required for this Capstone :
 
