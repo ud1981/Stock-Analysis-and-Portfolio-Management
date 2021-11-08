@@ -4,6 +4,7 @@ Business Analytics Capstone Project - Stock Analysis and Portfolio Management
 There is a high profile client (Alexa) who is very conservative wrt investments and has shared the following lists of stocks where she would like to diversify her portfolio. 
 
 These include: American Airlines, Apple Inc Ltd, Alaska Air, Amazon, Bausch Health, Credit Suisse, Deutsche Bank, Google, Goldman Sachs, Hawaiian Holdings, Johnson & Johnson, Merck & Co. This needs to be compared with returns from S&P 500 Index.
+
 Requirements and financial objectives of client include:
 
 Forming an NGO with her batchmates in sub-Sahara region after her schooling in US
