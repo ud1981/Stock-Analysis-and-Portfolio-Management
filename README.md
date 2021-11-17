@@ -21,13 +21,13 @@ Wants to invest in stocks that show promise, but are also stable
 
 Wants a comprehensive report on all metrics used to devise the investment strategy
 
-Your task is to provide consultation to this high profile client based on her requirements and financial objectives.
+Your task is to provide consultation to this high profile client based on her requirements and financial objectives
 
-You must use the elements of technical analysis to understand the trend of the underlying stocks. The metrics associated with risk and returns must help you realize whether the security meets the criteria of your investor’s financial goals.
+You must use the elements of technical analysis to understand the trend of the underlying stocks. The metrics associated with risk and returns must help you realize whether the security meets the criteria of your investor’s financial goals
 
-You must use the metrics and the visualizations to compare the performance of the available securities against each other, and also against the market index, S&P500.
+You must use the metrics and the visualizations to compare the performance of the available securities against each other, and also against the market index, S&P500
 
-The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio. You are expected to validate the same using the Capital Asset Pricing Model (CAPM) before including the stock in the portfolio.
+The findings should be aligned with the investor persona to select the appropriate stocks for the portfolio. You are expected to validate the same using the Capital Asset Pricing Model (CAPM) before including the stock in the portfolio
 
 After the selection of suitable stocks, you must apply a suitable predictive model to estimate the returns from the portfolio at the end of the investment period. You must check if the portfolio has the potential to fulfil the financial goals of the investor
 
@@ -45,7 +45,7 @@ Skills required for this Capstone :
 2. Understanding market fundamentals and technicals: Should be good at reading technical charts and have a good knowledge of market cycles
 3. Business Objective: Once business objective is clear, the next step is to provide business solution
 4. Business Solution: Share insight on Stock selection from the list of stocks and share comments on portfolio allocation
-5. Data Storytelling: Share a video with your client (i.e. Alexa) on key recommendations. Logic used here - Tell them what you need to tell them, tell them and tell them what you told them.
+5. Data Storytelling: Share a video with your client (i.e. Alexa) on key recommendations. Logic used here - Tell them what you need to tell them, tell them and tell them what you told them
 
 <B> Technical skills needed for this project:
 
